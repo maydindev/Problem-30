@@ -133,7 +133,7 @@ function Header({ state }) {
       </h2>
       {state.length === 0 ? (
         <p className="mt-1 text-sm text-gray-500">
-          "Projenize henüz herhangi bir ekip üyesi eklemediniz."
+          Projenize henüz herhangi bir ekip üyesi eklemediniz.
         </p>
       ) : (
         ""
